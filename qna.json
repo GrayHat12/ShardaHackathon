@@ -1,0 +1,11 @@
+{
+    "questions" : [["Hello","Hi","Hey"],
+    ["What is your name","What should I call you ?"],
+    ["How are you ?"],
+    ["Book a flight","I want to go to","Let's plan a visit","Take me to"]],
+    "answers" :[["Hello","Hi","Heyy"],
+    ["GrayBot","I am GrayBot","Call me GrayBot","GrayBot here ."],
+    ["I'm Fine ."],
+    ["Planning a trip"]],
+    "ignore" : ["is","am","are","a"]
+}

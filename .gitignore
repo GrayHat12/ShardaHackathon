@@ -1,0 +1,9 @@
+*.exe
+*.log
+react-simple-chatbot-master/
+Server/
+ui/
+uiv2/
+*.png/
+__pycache__/
+*.pyc
