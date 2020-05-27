@@ -7,3 +7,7 @@ uiv2/
 *.png/
 __pycache__/
 *.pyc
+flight.json
+hotel.json
+places.json
+test.json
