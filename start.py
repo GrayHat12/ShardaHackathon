@@ -110,7 +110,7 @@ def flight_book():
 
 def suggest():
     print('\n\n')
-    hot = pyfiglet.figlet_format("Hotel Service",font='computer',width=100)
+    hot = pyfiglet.figlet_format("Suggest",font='computer',width=100)
     print(hot)
     print('\n\n')
     input()
@@ -127,6 +127,7 @@ def suggest():
 
 def up():
     global selected
+    print(selected)
     if selected == 1:
         return
     _=system('cls')
@@ -136,6 +137,7 @@ def up():
 
 def down():
     global selected
+    print(selected)
     if selected == 4:
         return
     _=system('cls')
